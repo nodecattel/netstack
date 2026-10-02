@@ -149,7 +149,7 @@
     "assets/analytics/v4-routes.json": "c2ac59acc7808dec45ca04c8522fe1050d03ed0d1ff49034cf5ea4223fa25a19",
     "assets/safety-policy.json": "e5d06ec59e680d9d038f73436963fa34a398a5072010b19d729c3cc8148ed62a",
     "assets/sources.json": "10cec45c506551744e63b6f68c023794e8b08d1f170378bf321d5a66445a8da6",
-    "references/addresses-and-roles.md": "7c8d1588ed25d1e02e14dd532dddd99f1cf589f0a49c698fb7435b7f90de42e9",
+    "references/addresses-and-roles.md": "f9f89c35d235d9b47367a3f93c8552c85b9f8b9b3c7299b13c452464dbcc7dab",
     "references/announcements-and-history.md": "894d7b3cc6d941cd8f0aac7d7b93156f908c0a82b66c80cd39f020c6e7ec071c",
     "references/builders.md": "83a743dcea4b8afd668e75e671d1431edc3a705e4d81b349eeebd6ca604a9c79",
     "references/docs-and-sources.md": "db1c12a05be51b12bd0509d288df70efd0349871055684a0aee707e5eed84b6c",
@@ -163,10 +163,10 @@
     "references/lp-fee-inspection.md": "8b7996b17e62a0376bc59498ef3a8f4eb3c1d09e7f3a71e562b35ee180d79c7a",
     "references/nfts.md": "b0280b809adc5761252fda22bbd320bc1e009eeb5f1760eb5ffe757272192654",
     "references/predict-analytics.md": "70c4c9744e96f54d251dfa0e38a9cd6f92c9e9e06f86a51326ac7fdae8cfaff0",
-    "references/products.md": "bf17b79ebe9e08b55253911dc1d7cdd4c93f1bd8e0d36f9ae2d7487a57e41493",
+    "references/products.md": "582ec70462f8749ece328a2d24040e9aeffa8529e18918a638a6d6f22db6917e",
     "references/protocol.md": "78afe5f38cf11ad8c0d16d3416dd97624aef7815b0b6cc2c01035eb74ebb8bfd",
-    "references/reserve-analytics.md": "c50086d4699fb9cb8da7456a278e340e07ee7e6ee10ce2d30d208aeda885d4fb",
-    "references/rwa-strategy.md": "0e13f8e292c107bff579ba1608ee26a3cde49baa883cc353d9adfb3da1b29f04",
+    "references/reserve-analytics.md": "25927c39ad3289a5d3745dee382a263f5ceb770592b4007aee4fb0b4ba7e62b5",
+    "references/rwa-strategy.md": "59554c28d5884604a2b0b56a17099a555af47dca20cd1ac596ee15d6ad202099",
     "references/safety.md": "b5ce9c66da3bc9669e12069cea3b8bb2a629f9d1ea56e17ae59721641bd8db0f",
     "references/website-metrics.md": "fbc2a50a84c2bb1e825aa4741fd1da348b1d7d9a3d796c4ac6d56b00d0ca339e",
     "scripts/analytics.py": "05d6d02ae7042d54afbbc95a91ff52e0808f26fc45da940f4edea6664618d680",
@@ -185,7 +185,7 @@
   },
   "runtime_bundle": {
     "files": 176,
-    "sha256": "af12bb1f809d6f3bab3675a24d8e750ea47e0e029e1d95a59b399a42ca1214d1",
+    "sha256": "bde7578bda147f274a4c881d47ee50b0ec8b78cce67fa7330e2c69114ce95880",
     "digest_algorithm": "SHA-256 over lexicographically sorted POSIX relative paths, each followed by NUL and file bytes",
     "scope": "SKILL.md, assets/**, references/** (including references/guardrail.md) and scripts/**; excludes README.md, root LICENSE, release-manifest.json and non-distributable maintenance/tests."
   }
